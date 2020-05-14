@@ -3,7 +3,7 @@ language: python
 
 //バージョンの指定
 python:
-    - 3.6
+    - 3.7
     
 //実行させるテストコード
 script:
